@@ -8,7 +8,7 @@ class soundFile {
   constructor(file, deferPlay) {
     //this.deferPlay = false;
     this.player = new Tone.Player({
-      url: "https://thatelliekat.github.io/thatelliekats-pong/sounds/" + file,
+      url: "https://thatelliekat.github.io/thatelliekats-pong/Muag4200_Pong-main/sounds/" + file,
       loop: false,
       autostart: false
     }).toMaster();
