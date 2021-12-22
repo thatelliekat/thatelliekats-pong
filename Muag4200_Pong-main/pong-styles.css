@@ -14,7 +14,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("simple_gradient_1.png");
+  background-image: url("pong bg.png");
   background-size: cover;
 }
 
